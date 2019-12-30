@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">WiFi_Details_App</string>
+    <string name="anydsc">anydsc</string>
+    <string name="checker">&#32;Checker</string>
+    <string name="connection">Connection</string>
+    <string name="internet">InterNet</string>
+    <string name="mobile_data">Mobile Data</string>
+    <string name="off">Off</string>
+    <string name="wifi">WiFi</string>
+    <string name="check_mobile_data_connection">Check Mobile Data Connection</string>
+    <string name="check_wifi_connection">Check WiFi Connection</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+</resources>
